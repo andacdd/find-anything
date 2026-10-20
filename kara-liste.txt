@@ -1,0 +1,4 @@
+# Kara liste: bu metni içeren kaynak, alan adı, yazar ya da YouTube kanal ID'si hiç kullanılmaz.
+# Satır başına bir giriş. Küçük/büyük harf fark etmez. Örnek:
+# example.com
+# UCxxxxxxxxxxxxxxxxxxxxxx
